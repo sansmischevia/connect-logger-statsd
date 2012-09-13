@@ -10,9 +10,5 @@
     "type": "git",
     "url": "https://github.com/fetep/connect-logger-statsd.git"
   },
-
-  "dependencies": {
-    "node-statsd": ">= 0.0.2"
-  },
   "main": "./index.js"
 }
