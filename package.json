@@ -1,6 +1,6 @@
 {
   "name": "connect-logger-statsd",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "logging to statsd middleware for Connect",
   "keywords": ["connect", "middleware", "statsd", "logging"],
 
