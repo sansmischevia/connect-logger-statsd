@@ -4,11 +4,10 @@
   "description": "logging to statsd middleware for Connect",
   "keywords": ["connect", "middleware", "statsd", "logging"],
 
-  "author": "Pete Fritchman <petef@databits.net>",
-  "bugs": "https://github.com/fetep/connect-logger-statsd/issues",
+  "author": "Bryant Chou <chou.bryant@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fetep/connect-logger-statsd.git"
+    "url": "https://github.com/sansmischevia/connect-logger-statsd.git"
   },
   "main": "./index.js"
 }
